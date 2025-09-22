@@ -1,4 +1,5 @@
 Iris Dataset Analysis Project
+
 Overview
 This project demonstrates comprehensive data analysis and visualization techniques using the famous Iris dataset. The implementation includes data loading, exploration, statistical analysis, and multiple visualizations to uncover patterns and relationships within the dataset.
 
@@ -13,7 +14,10 @@ Error Handling: Includes robust exception handling for data loading and processi
 
 Professional Reporting: Clear section organization with detailed findings
 
+
+
 Requirements
+
 Python 3.6+
 
 pandas
@@ -39,6 +43,7 @@ Run the Python script directly:
 bash
 python iris_analysis.py
 Or use in a Jupyter notebook by copying the code cells.
+
 
 Project Structure
 The code is organized into three main tasks:
@@ -76,6 +81,7 @@ Box plots for measurement distributions by species
 
 Correlation heatmap of all numerical features
 
+
 Key Findings
 The dataset contains 150 samples with no missing values
 
@@ -87,6 +93,7 @@ Strong correlation between petal length and petal width
 
 Clear separation between species in measurement patterns
 
+
 Customization
 This code can be easily adapted for other datasets by:
 
@@ -95,6 +102,7 @@ Replacing the data loading section with your dataset
 Adjusting column names and variables accordingly
 
 Modifying visualization parameters as needed
+
 
 Output
 The script generates:
